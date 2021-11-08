@@ -1,0 +1,3 @@
+finetuner==0.1.3
+torch
+torchvision
